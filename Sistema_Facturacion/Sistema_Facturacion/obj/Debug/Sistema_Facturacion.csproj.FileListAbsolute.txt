@@ -1,0 +1,11 @@
+C:\Users\fmues\Desktop\LENGUAJE C\Sistema_Facturacion-master\Sistema_Facturacion\Sistema_Facturacion\obj\Debug\Sistema_Facturacion.csprojAssemblyReference.cache
+C:\Users\fmues\Desktop\LENGUAJE C\Sistema_Facturacion-master\Sistema_Facturacion\Sistema_Facturacion\obj\Debug\Sistema_Facturacion.Formularios.FrmArticulos.resources
+C:\Users\fmues\Desktop\LENGUAJE C\Sistema_Facturacion-master\Sistema_Facturacion\Sistema_Facturacion\obj\Debug\Sistema_Facturacion.Formularios.frmBusqueda_Productos.resources
+C:\Users\fmues\Desktop\LENGUAJE C\Sistema_Facturacion-master\Sistema_Facturacion\Sistema_Facturacion\obj\Debug\Sistema_Facturacion.Formularios.frmbusque_Cliente.resources
+C:\Users\fmues\Desktop\LENGUAJE C\Sistema_Facturacion-master\Sistema_Facturacion\Sistema_Facturacion\obj\Debug\Sistema_Facturacion.Formularios.frmClientes.resources
+C:\Users\fmues\Desktop\LENGUAJE C\Sistema_Facturacion-master\Sistema_Facturacion\Sistema_Facturacion\obj\Debug\Sistema_Facturacion.Formularios.frmConsulta_Articulos.resources
+C:\Users\fmues\Desktop\LENGUAJE C\Sistema_Facturacion-master\Sistema_Facturacion\Sistema_Facturacion\obj\Debug\Sistema_Facturacion.frmLogin.resources
+C:\Users\fmues\Desktop\LENGUAJE C\Sistema_Facturacion-master\Sistema_Facturacion\Sistema_Facturacion\obj\Debug\Sistema_Facturacion.Formularios.frmPrincipal.resources
+C:\Users\fmues\Desktop\LENGUAJE C\Sistema_Facturacion-master\Sistema_Facturacion\Sistema_Facturacion\obj\Debug\Sistema_Facturacion.Properties.Resources.resources
+C:\Users\fmues\Desktop\LENGUAJE C\Sistema_Facturacion-master\Sistema_Facturacion\Sistema_Facturacion\obj\Debug\Sistema_Facturacion.csproj.GenerateResource.cache
+C:\Users\fmues\Desktop\LENGUAJE C\Sistema_Facturacion-master\Sistema_Facturacion\Sistema_Facturacion\obj\Debug\Sistema_Facturacion.csproj.CoreCompileInputs.cache
